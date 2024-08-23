@@ -1,11 +1,8 @@
-BETA :
-- new CAN interface in development
-
 # Development repository for Smart Brushless Servo 
 
-PID/FOC Custom Firmware for B-G431B-ESC1 board.
+PID/FOC Custom Firmware for the B-G431B-ESC1 board.
 
-Follow us on Hackaday.io : https://hackaday.io/project/177578-b-g431b-esc-brushless-servo-controller
+Based on prior work by pat92fr, seen here : https://hackaday.io/project/177578-b-g431b-esc-brushless-servo-controller
 
 ## Characteristics
 
